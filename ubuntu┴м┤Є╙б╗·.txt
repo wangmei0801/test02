@@ -1,0 +1,5 @@
+1、首先去官网下载ubuntu的打印机驱动(爱普生的官网：support.epson.com.cn/linux/en/epsonscan2.php),下载ubuntu-64bit
+2、解压安装包
+3、执行这两个命令：sudo apt-get install lsb 
+sudo ./install.sh （文件夹中终端打开，执行安装程序）
+4、安装完成之后，使用线连接打印机
